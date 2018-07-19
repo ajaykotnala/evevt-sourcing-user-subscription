@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "yes"
+    "url": "https://github.com/ajaykotnala/evevt-sourcing-user-subscription"
   },
   "author": "kotnala.ajayk@gmail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://yes.com"
+    "url": "https://github.com/ajaykotnala/evevt-sourcing-user-subscription/issues"
   },
-  "homepage": "https://yes.com",
+  "homepage": "https://github.com/ajaykotnala/evevt-sourcing-user-subscription",
   "devDependencies": {
     "eslint": "3.12.2",
     "eslint-config-airbnb-base": "11.0.0",
