@@ -1,0 +1,30 @@
+{
+  "name": "user-subscription",
+  "version": "1.0.0",
+  "description": "In a usual subscription based system, your users can buy a plan, upgrade it, downgrade it, pro-rate a current price, cancel a plan, apply a coupon, and so on... A good event log can be very useful to figure out what happened.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app",
+    "lint": "eslint account accountLog app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "author": "kotnala.ajayk@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://yes.com"
+  },
+  "homepage": "https://yes.com",
+  "devDependencies": {
+    "eslint": "3.12.2",
+    "eslint-config-airbnb-base": "11.0.0",
+    "eslint-plugin-import": "2.2.0",
+    "eslint-plugin-promise": "3.4.0"
+  },
+  "dependencies": {
+    "lodash": "4.17.4"
+  }
+}
