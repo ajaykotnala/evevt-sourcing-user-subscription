@@ -28,7 +28,7 @@ log('Some money are transfered', Account.get())
 // Close some accounts
 Account.close('Ajay')
 
-log('Samantha closed her account', Account.get())
+log('Ajay closed her account', Account.get())
 
 /* ********** Playing with Event Sourcing events ********** */
 
