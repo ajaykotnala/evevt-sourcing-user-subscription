@@ -21,7 +21,7 @@ Console output:
 --- Create events ---
 Accounts are opened { Ajay: 1000, Ankur: 500, Ansuman: 0 }
 Some money are transfered { Ajay: 0, Ankur: 1000, Ansuman: 500 }
-Samantha closed her account { Ankur: 1000, Ansuman: 500 }
+Ajay closed her account { Ankur: 1000, Ansuman: 500 }
 --- Process events ---
 Rebuild accounts from event log { Ankur: 1000, Ansuman: 500 }
 Undo last event { Ankur: 1000, Ansuman: 500, Ajay: 0 }
